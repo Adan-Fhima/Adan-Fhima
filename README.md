@@ -2,9 +2,10 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hello,+I'm+Adan+Fhima;Welcome+to+my+GitHub+Profile!;Explore+my+projects+and+ideas!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&duration=2500&pause=1000&color=89A3C3&center=true&vCenter=true&width=750&lines=Hello,+I'm+Adan+Fhima;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </h1>
 </div>
+
 
 
 Welcome to my GitHub profile! I'm a **Computer Science Major** with a passion for exploring the intersection of **mathematics, finance, and technology**. My academic journey and projects reflect my curiosity and drive to solve real-world problems using computational techniques.
