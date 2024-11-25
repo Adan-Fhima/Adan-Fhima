@@ -10,7 +10,8 @@
 
 Welcome to my GitHub profile! I'm a **Computer Science Major** with a passion for exploring the intersection of **mathematics, finance, and technology**. My academic journey and projects reflect my curiosity and drive to solve real-world problems using computational techniques.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adan-fhima-032255253)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adan-fhima-032255253)
+
 
 
 ---
