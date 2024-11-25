@@ -1,31 +1,11 @@
 ## Hi there 👋
 
-<h1 align="center">
-  <span style="display: inline-block; animation: typing 3.5s steps(30, end), blink .75s step-end infinite;">
-    Hello, I am Adan Fhima
-  </span>
-</h1>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hello,+I'm+Adan+Fhima;Welcome+to+my+GitHub+Profile!;Explore+my+projects+and+ideas!" alt="Typing SVG" />
+  </h1>
+</div>
 
-<style>
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-
-@keyframes blink {
-  50% { border-color: transparent; }
-}
-
-span {
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 24px;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 2px solid;
-  display: inline-block;
-  animation: typing 3.5s steps(30, end), blink .75s step-end infinite;
-}
-</style>
 
 Welcome to my GitHub profile! I'm a **Computer Science Major** with a passion for exploring the intersection of **mathematics, finance, and technology**. My academic journey and projects reflect my curiosity and drive to solve real-world problems using computational techniques.
 
