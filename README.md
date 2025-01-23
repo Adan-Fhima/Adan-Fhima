@@ -43,6 +43,9 @@ Welcome to my GitHub profile! I'm a **Computer Science Major** with a passion fo
     Developed and fine-tuned machine learning models to forecast trends based on historical data. Leveraged algorithms like time series analysis, ARIMA, and LSTM networks for predictive     analytics.
 
   - **Compiler Design:** Developed a parser, AST validator, and TAC JSON transformer.
+ 
+  - **Timeless Journey:** Collaborated in a team-based project focused on the development of a game using C++ and
+the SDL2 library, where my primary focus was on enhancing the user interface.
 
 - 📘 **Relevant Courses:**
   - Asymptotic Statistics
